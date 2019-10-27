@@ -1,6 +1,6 @@
 {
     "name": "homepage",
-    "homepage": "wikman.ch",
+    "homepage": "http://wikman.ch",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
