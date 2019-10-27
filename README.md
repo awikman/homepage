@@ -4,7 +4,7 @@ Welcome to my home page.
 
 This is an old fashioned homepage, like in the 90s. Well, not quite that old fashioned, but the idea is the same – Just built with React.
 
-You can access the deployed version at [wikman.ch](wikman.ch)
+You can access the deployed version at [wikman.ch](http://wikman.ch)
 
 ### About the source code
 
