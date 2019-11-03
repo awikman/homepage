@@ -1,16 +1,8 @@
-.App {
-  text-align: center;
-}
-
-.logo {
+.ProfileImage {
     height: 5em;
     margin: 1em;
-}
-
-.Section {
-    background-color: white;
-    padding: 5px;
-    margin: 5px;
+    border-radius: 50%;
+    box-shadow: 0 0 2px 0
 }
 
 .App {
@@ -18,55 +10,67 @@
     position: relative;
 }
 
-.MainContainer {
-    display: grid;
-    grid-template-rows: auto;
-    padding-bottom: 3em; /* room for footer */
-    //grid-template-columns: 100%;
-    grid-template-areas:
-        "header header header"
-            "main main sidebar";
-}
-
 .Header {
-    grid-area: header;
-    background-color: #282c34;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    //justify-content: center;
-    //font-size: calc(10px + 2vmin);
-    color: white;
-}
-
-.Main {
-    grid-area: main;
-}
-
-.Sidebar {
-    grid-area: sidebar;
-}
-
-.Footer {
-    position: absolute;
-    bottom: 0;
-    height: 2.5em; /* Make sure that .MainContainer has enough padding for this */
     width: 100%;
     background-color: #282c34;
     color: white;
 }
-.Footer >  div{
-    padding: 5px;
-}
-
-.Header .profile {
-    margin: 1em 0 1em 0;
-}
-.Header .profile h1, .Header .profile h2{
-    margin: 0;
+.HeaderContent{
+    margin: auto;
+    max-width: 80em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
 
-.link {
-  color: #09d3ac;
+.MainContainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    max-width: 70em;
+    margin: auto;
+
+    /* Leave room for the footer height */
+    padding-bottom: 2.5em;
+}
+
+
+.Main{
+    max-width: 55em;
+}
+
+
+.Sidebar {
+    min-width: 15em;
+    max-width: 55em;
+    flex-grow: 1;
+    margin-bottom: -0.5em;
+}
+.Sidebar .Section > div {
+    margin-top: 0.2em;
+}
+.Sidebar i.fas {
+    margin-right: 1em;
+}
+
+
+.Section {
+    background-color: white;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+
+.Footer {
+    position: absolute;
+    bottom: 0;
+    /* Make sure that .MainContainer has enough padding for this height */
+    height: 2.5em; 
+    width: 100%;
+    background-color: #282c34;
+    color: white;
+}
+.Footer > div{
+    padding: 0.5em;
 }

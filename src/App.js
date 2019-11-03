@@ -5,16 +5,16 @@ import './App.css';
 function App() {
   return (
       <div className="App">
-        <div className="MainContainer">
-
-          <header className="Header">
-            <img src={logo} className="logo" alt="logo" />
-            <div className="profile">
+        <header className="Header">
+          <div className="HeaderContent">
+            <img src="profile_image.jpg" className="ProfileImage" alt="profile image" />
+            <div className="Profile">
               <h1>Aleksi Wikman</h1>
               <h2>Software Engineer</h2>
             </div>
-          </header>
-
+          </div>
+        </header>
+        <div className="MainContainer">
           <div className="Main">
             <div className="Section">
               <h3>About me</h3>
@@ -36,14 +36,18 @@ function App() {
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+                nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+                eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
+                in culpa qui officia deserunt mollit anim id est laborum.
               </p>
             </div>
           </div>
           <div className="Sidebar">
             <div className="Section">
-              <p>
-                This is a side bar item. Maybe add my contact info here...
-              </p>
+              <div><i className="fas fa-file-signature"></i> Aleksi Wikman</div>
+              <div><i className="fas fa-map-marked-alt"></i> Switzerland, Zürich </div>
+              <div><i className="fas fa-at"></i> aleksi@wikman.ch </div>
             </div>
           </div>
         </div>
