@@ -16,7 +16,7 @@ export function MainContent(props){
               at <a rel="noopener" target="_blank" href="https://www.vilkasgroup.com/">
                 Vilkas Group Oy
               </a> as a Senior Software Engineer (full stack). At Vilkas we develop, maintain, and host
-              e-commerce platform for merchants in the Nordic region.
+              e-commerce platforms for merchants in the Nordic region.
             </p>
             <p>
               If you have any questions, please don't hesitate to contact me
