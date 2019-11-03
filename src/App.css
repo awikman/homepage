@@ -32,7 +32,7 @@
     margin: auto;
 
     /* Leave room for the footer height */
-    padding-bottom: 2.5em;
+    padding-bottom: 3.5em;
 }
 
 
@@ -65,11 +65,19 @@
     position: absolute;
     bottom: 0;
     /* Make sure that .MainContainer has enough padding for this height */
-    height: 2.5em; 
+    height: 3.5em; 
     width: 100%;
     background-color: #282c34;
     color: white;
 }
 .Footer > div{
     padding: 0.5em;
+    margin: auto;
+    max-width: 75em;
+}
+
+
+
+.Link{
+    color: #43ABC9;
 }
