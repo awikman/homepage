@@ -7,7 +7,7 @@ function App() {
       <div className="App">
         <header className="Header">
           <div className="HeaderContent">
-            <img src="profile_image.jpg" className="ProfileImage" alt="profile image" />
+            <img src={process.env.PUBLIC_URL + "profile_image.jpg"} className="ProfileImage" alt="profile image" />
             <div className="Profile">
               <h1>Aleksi Wikman</h1>
               <h2>Software Engineer</h2>
