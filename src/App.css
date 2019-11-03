@@ -2,21 +2,71 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
+.logo {
+    height: 5em;
+    margin: 1em;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.Section {
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
 }
 
-.App-link {
+.App {
+    min-height: 100vh;
+    position: relative;
+}
+
+.MainContainer {
+    display: grid;
+    grid-template-rows: auto;
+    padding-bottom: 3em; /* room for footer */
+    //grid-template-columns: 100%;
+    grid-template-areas:
+        "header header header"
+            "main main sidebar";
+}
+
+.Header {
+    grid-area: header;
+    background-color: #282c34;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    //justify-content: center;
+    //font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.Main {
+    grid-area: main;
+}
+
+.Sidebar {
+    grid-area: sidebar;
+}
+
+.Footer {
+    position: absolute;
+    bottom: 0;
+    height: 2.5em; /* Make sure that .MainContainer has enough padding for this */
+    width: 100%;
+    background-color: #282c34;
+    color: white;
+}
+.Footer >  div{
+    padding: 5px;
+}
+
+.Header .profile {
+    margin: 1em 0 1em 0;
+}
+.Header .profile h1, .Header .profile h2{
+    margin: 0;
+}
+
+
+.link {
   color: #09d3ac;
 }
