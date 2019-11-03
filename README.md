@@ -6,6 +6,8 @@ This is an old fashioned homepage, like in the 90s. Well, not quite that old fas
 
 You can access the deployed version at [wikman.ch](http://wikman.ch)
 
+There isn't a lot here yet, but I'll add some interactive tech demos later (This was the original idea, and the reason I built it with React.)
+
 ### About the source code
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and deployed with gh-pages.
@@ -27,22 +29,10 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-#### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
 #### `npm run deploy`
 
-deploy the code to by pushing the build to the gh-pages branch
+Build the bundle with `npm run build` and deploy the code to by pushing the build to the gh-pages branch
 
 ### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
