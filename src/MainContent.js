@@ -30,7 +30,7 @@ export function MainContent(props){
               that old fashioned, but the idea is the same – Just built with React and hosted on GitHub Pages.
             </p>
             <p>
-              This site is till a work in progress. Originally I intended to add some interactive
+              This site is still a work in progress. Originally I intended to add some interactive
               tech demos, but I never got around to it. This is why this was built with react,
               instead of just being a static html site (GitHub Pages would have certainly had prettier
               templates). But we'll get something nice here once I get around to it... Maybe.
