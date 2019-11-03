@@ -10,7 +10,7 @@ There isn't a lot here yet, but I'll add some interactive tech demos later (This
 
 ### About the source code
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and deployed with gh-pages.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and deployed with [gh-pages](https://github.com/tschaub/gh-pages).
 
 ### Available Scripts
 
