@@ -6,27 +6,39 @@ export function MainContent(props){
           <div className="Section">
             <h3>About me</h3>
             <p>
-              This is a main view section. TODO: Add some info about me
+              I'm a full stack web developer with experience developing with both the old, and the new
+              stacks. Although I love working with modern technologies like React, Python, GraphQL,
+              and serverless architectures, I'm also familiar with working with self hosted Linux servers
+              and maintaining legacy systems written in something like Perl + MySQL.
             </p>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-              incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-              nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-              Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-              eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-              in culpa qui officia deserunt mollit anim id est laborum.
+              I'm currently working on e-commerce
+              at <a rel="noopener" target="_blank" href="https://www.vilkasgroup.com/">
+                Vilkas Group Oy
+              </a> as a Senior Software Engineer (full stack). At Vilkas we develop, maintain, and host
+              e-commerce platform for merchants in the Nordic region.
+            </p>
+            <p>
+              If you have any questions, please don't hesitate to contact me
+              at <a href="mailto:aleksi@wikman.ch">aleksi@wikman.ch</a>
             </p>
           </div>
           <div className="Section">
-            <h3>Another section</h3>
-            <p>I feel like we could have more of these kinds of cards here...</p>
+            <h3>About this site</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-              incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-              nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-              Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-              eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-              in culpa qui officia deserunt mollit anim id est laborum.
+              This site is an old fashioned homepage, like the ones we had in the 90s. Well, not quite
+              that old fashioned, but the idea is the same – Just built with React and hosted on GitHub Pages.
+            </p>
+            <p>
+              This site is till a work in progress. Originally I intended to add some interactive
+              tech demos, but I never got around to it. This is why this was built with react,
+              instead of just being a static html site (GitHub Pages would have certainly had prettier
+              templates). But we'll get something nice here once I get around to it... Maybe.
+            </p>
+            <p>
+              You can access the source code of this site
+              at <a rel="noopener" target="_blank" href="https://github.com/awikman/homepage">
+                <i className="fas fa-external-link-alt"></i>GitHub</a>
             </p>
           </div>
         </div>
