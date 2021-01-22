@@ -1,0 +1,32 @@
+---
+layout: page
+title: Garden layout
+permalink: /garden/
+---
+
+testing...
+
+<table>
+  <tr>
+    <td>A1</td>
+    <td>A2</td>
+    <td>A3</td>
+  </tr>
+  <tr>
+    <td>A4</td>
+    <td>A5</td>
+    <td>A6</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>B1</td>
+    <td>B2</td>
+  </tr>
+  <tr>
+    <td>B4</td>
+    <td>B5</td>
+  </tr>
+</table>
