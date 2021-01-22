@@ -1,11 +1,7 @@
 ---
 layout: page
-title: Garden layout
 permalink: /garden/
 ---
-
-testing...
-
 <table>
   <tr>
     <td>A1</td>
@@ -30,3 +26,27 @@ testing...
     <td>B5</td>
   </tr>
 </table>
+
+<table>
+    <tr><td>C1</td></tr>
+</table>
+
+A1: Elephantskin
+
+A2: Tuntematon, iso, punainen, mieto
+
+A3: Hbanero, oranssi
+
+A4: Jalapeno Ixpata
+
+A5: Candlelight
+
+B1: Zebratomaatti
+
+B2: Cerise Rubis tomaatti
+
+B3: Tuntematon, kelteinan, pienehkö tomaatti
+
+B3: Dattelwein tomaatti
+
+C1: Tuntematon, punainen, 10/10 tulinen, hassun muotoinen
