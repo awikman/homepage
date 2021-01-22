@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /garden/
+permalink: /garden
 ---
 <table>
   <tr>
