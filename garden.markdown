@@ -23,11 +23,11 @@ permalink: /garden
   </tr>
 </table>
 
-A1: Elephantskin
+A1: Elephant Skin
 
 A2: Tuntematon, iso, punainen, mieto
 
-A3: Hbanero, oranssi
+A3: Habanero, oranssi
 
 A4: Jalapeno Ixpata
 
