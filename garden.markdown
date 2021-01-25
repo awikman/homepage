@@ -39,7 +39,7 @@ B1: Zebratomaatti
 
 B2: Cerise Rubis tomaatti
 
-B3: Tuntematon, kelteinan, pienehkö tomaatti
+B3: Tuntematon, keltainen, pienehkö tomaatti
 
 B3: Dattelwein tomaatti
 
