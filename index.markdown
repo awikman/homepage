@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Here be dragons
+This is my homepage. Now go away!
