@@ -14,7 +14,7 @@ permalink: /gallery
 {% for file in site.static_files %}
     {% if file.path contains "/photos" %}
         <a href="{{file.path || relative_url }}">
-            <img loading="lazy" src="{{file.path || relative_url}}"/>
+            <img loading="lazy" src="{{file.path || relative_url}}" width="1000" height="1000" style="height: auto"/>
         </a>
     {% endif %}
 {% endfor %}
