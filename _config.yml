@@ -20,11 +20,8 @@
 
 title: Wikman.ch
 email: aleksi@wikman.ch
-description: >- # this means to ignore newlines until "baseurl:"
-  This is my homepage. Maybe someday something will appear here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wikman.ch/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  awikman
 
 # Build settings
 theme: minima
