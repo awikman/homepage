@@ -1,4 +1,4 @@
-I"I<style>
+I"U<style>
     .image-gallery img {
         margin-bottom: 1em;
     }
@@ -128,6 +128,10 @@
         <a href="/photos/2021-02-12-0001.png">
             <img loading="lazy" src="/photos/2021-02-12-0001.png" width="1000" height="1000" style="height: auto" />
         </a>
+    
+
+    
+
     
 
     

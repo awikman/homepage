@@ -2,47 +2,51 @@
 layout: page
 permalink: /garden
 ---
-<table>
-  <tr>
-    <td>A1</td>
-    <td>A2</td>
-    <td>A3</td>
-    <td>A4</td>
-  </tr>
-  <tr>
-    <td>A5</td>
-    <td>A6</td>
-    <td>B1</td>
-    <td>B2</td>
-  </tr>
-  <tr>
-    <td>B3</td>
-    <td>B4</td>
-    <td>C1</td>
-    <td>C2</td>
-  </tr>
-</table>
 
-A1: Elephant Skin
+Lista vasemmalta oikeelle...
+<br />
 
-A2: Tuntematon, iso, punainen, mieto
 
-A3: Habanero, oranssi
 
-A4: Jalapeno Ixpata
 
-A5: Candlelight
+<img src="/garden/garden_1.jpg" />
+<br />
 
-A6: Tuntematon, vihreä paprika, ei tulinen
+- Elephant Skin
+- Tuntematon, iso, punainen, mieto
+- Habanero, oranssi
+- Jalapeno Ixpata
+- Violetti tomaatti lidlistä
 
-B1: Zebratomaatti
+- Candlelight
+- Tuntematon, vihreä paprika, ei tulinen
+- Zebratomaatti
+- Cerise Rubis tomaatti
+- Violetti tomaatti lidlistä
 
-B2: Cerise Rubis tomaatti
+- Tuntematon, keltainen, pienehkö tomaatti
+- Dattelwein tomaatti
+- Tuntematon, punainen, 10/10 tulinen, hassun muotoinen
+- Lunchbox Pepper Orange
+- Violetti tomaatti lidlistä
 
-B3: Tuntematon, keltainen, pienehkö tomaatti
 
-B3: Dattelwein tomaatti
 
-C1: Tuntematon, punainen, 10/10 tulinen, hassun muotoinen
+<br />
+<img src="/garden/garden_2.jpg" />
+<br />
 
-C2: Lunchbox Pepper Orange
+- Chili, keltainen, isohko, semi-tulinen
+- Chili, iso, mieto
+- Chili, violetti, tulinen, pienehkö
+- Chili, oranssi, äkänen
+
+- Tomaatti, pieni, suippo, punainen
+- Tomaatti, keltainen, pienehkö
+- Erdkirche Molly
+- Tomaatti, vihreä Zebratomaatti
+
+- Tomatillo Purple
+- Dragonfruit
+- Chili, keltainen, isohko, semi-tulinen
+- Chili, ruskea / tummanpunainen, pienehkö, äkäinen

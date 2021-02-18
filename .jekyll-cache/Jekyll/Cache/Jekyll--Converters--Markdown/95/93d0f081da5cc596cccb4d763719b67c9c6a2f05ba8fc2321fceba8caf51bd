@@ -1,0 +1,54 @@
+I"�<p>Lista vasemmalta oikeelle…
+<br /></p>
+
+<p><img src="/garden/garden_1.jpg" />
+<br /></p>
+
+<ul>
+  <li>Elephant Skin</li>
+  <li>Tuntematon, iso, punainen, mieto</li>
+  <li>Habanero, oranssi</li>
+  <li>Jalapeno Ixpata</li>
+  <li>
+    <p>Violetti tomaatti lidlistä</p>
+  </li>
+  <li>Candlelight</li>
+  <li>Tuntematon, vihreä paprika, ei tulinen</li>
+  <li>Zebratomaatti</li>
+  <li>Cerise Rubis tomaatti</li>
+  <li>
+    <p>Violetti tomaatti lidlistä</p>
+  </li>
+  <li>Tuntematon, keltainen, pienehkö tomaatti</li>
+  <li>Dattelwein tomaatti</li>
+  <li>Tuntematon, punainen, 10/10 tulinen, hassun muotoinen</li>
+  <li>Lunchbox Pepper Orange</li>
+  <li>Violetti tomaatti lidlistä</li>
+</ul>
+
+<p><br />
+<img src="/garden/garden_2.jpg" />
+<br /></p>
+
+<table>
+  <tr>
+    <td>A1</td>
+    <td>A2</td>
+    <td>A3</td>
+    <td>A4</td>
+  </tr>
+  <tr>
+    <td>A5</td>
+    <td>A6</td>
+    <td>B1</td>
+    <td>B2</td>
+  </tr>
+  <tr>
+    <td>B3</td>
+    <td>B4</td>
+    <td>C1</td>
+    <td>C2</td>
+  </tr>
+</table>
+
+:ET
