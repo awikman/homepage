@@ -1,0 +1,37 @@
+I"2<style>
+    .image-gallery img {
+        margin-bottom: 1em;
+    }
+    .see-more{
+        text-align: center;
+    }
+</style>
+
+<ul class="image-gallery">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+</ul>
+
+<p class="see-more">
+  <a href="/gallery/all">Click here to see all photos!</a>
+</p>
+:ET

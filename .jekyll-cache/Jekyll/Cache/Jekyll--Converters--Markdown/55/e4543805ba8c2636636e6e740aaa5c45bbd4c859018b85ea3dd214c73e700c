@@ -1,6 +1,9 @@
-I"q]<style>
+I"�]<style>
     .image-gallery img {
         margin-bottom: 1em;
+    }
+    .see-more{
+        text-align: center;
     }
 </style>
 
@@ -158,7 +161,7 @@
 
       
           <br />
-          Kuvia Bruno Weber puistosta. Filmi hajosi kameran sisällä ja kaikki kuvat valoittuvat kun revin sen ulos puiston vessassa... Värikuvia tulossa kunhan saan ne kehitettyä. <br />
+          Kuvia Bruno Weber puistosta. Filmi hajosi kameran sisällä ja kaikki kuvat valoittuvat kun revin sen ulos paikan päällä... Värikuvia tulossa kunhan saan ne kehitettyä. <br />
       
 
       <a href="/photos/2021-03-29-0019.png">
@@ -1151,4 +1154,8 @@
     
 
 </ul>
+
+<p class="see-more">
+  <a href="/gallery/all">Click here to see all photos!</a>
+</p>
 :ET

@@ -1,21 +1,17 @@
 ---
 layout: page
-title: Gallery
-permalink: /gallery
+permalink: /gallery/all
 ---
 
 <style>
     .image-gallery img {
         margin-bottom: 1em;
     }
-    .see-more{
-        text-align: center;
-    }
 </style>
 
 <ul class="image-gallery">
-{% for file in site.static_files reversed  %}
-    {% if file.path contains "/photos" and forloop.index < 50 %}
+{% for file in site.static_files reversed %}
+    {% if file.path contains "/photos" %}
 
       {% if file.name == "2021-03-29-0019.png" %}
           <br />
@@ -28,7 +24,3 @@ permalink: /gallery
     {% endif %}
 {% endfor %}
 </ul>
-
-<p class="see-more">
-  <a href="/gallery/all">Click here to see all photos!</a> (Might be a bit slow...)
-</p>
