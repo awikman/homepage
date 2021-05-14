@@ -4,4 +4,4 @@
 
 layout: home
 ---
-This is my homepage. Now go away!
+This is my homepage. Nothing to see here.
