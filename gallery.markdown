@@ -8,20 +8,11 @@ permalink: /gallery
     .image-gallery img {
         margin-bottom: 1em;
     }
-    .see-more{
-        text-align: center;
-    }
 </style>
 
 <ul class="image-gallery">
 {% for file in site.static_files reversed  %}
-    {% if file.path contains "/photos" and forloop.index < 50 %}
-
-      {% if file.name == "2021-03-29-0019.png" %}
-          <br />
-          Kuvia Bruno Weber puistosta. Filmi hajosi kameran sisällä ja kaikki kuvat valoittuvat kun revin sen ulos paikan päällä... Värikuvia tulossa kunhan saan ne kehitettyä. <br />
-      {% endif %}
-
+    {% if file.path contains "/photos" %}
       <a href="{{file.path || relative_url }}">
           <img loading="lazy" src="{{file.path || relative_url}}" width="1000" height="1000" style="height: auto"/>
       </a>
@@ -29,6 +20,6 @@ permalink: /gallery
 {% endfor %}
 </ul>
 
-<p class="see-more">
-  <a href="/gallery/all">Click here to see all photos!</a> (Might be a bit slow...)
+<p>
+I no longer host older pictures here. GitHub doens't want to host a site this large for free...
 </p>
