@@ -9,10 +9,6 @@ permalink: /pavarotti
     }
 </style>
 
-Kuvia Pavarotista... Otin kyllä myös värifilmille kuvia, mutta multa ei nyt löydy
-kemikaaleja niiden kehittämiseksi. Eli kuvia tulee vielä jossain vaiheessa lisää.
-<br />
-
 <ul class="image-gallery">
 {% for file in site.static_files reversed %}
     {% if file.path contains "/pavarotti" %}
